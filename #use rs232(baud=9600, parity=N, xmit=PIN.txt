@@ -1,0 +1,1 @@
+#use rs232(baud=9600, parity=N, xmit=PIN_B1, rcv=PIN_B2, bits=8, stream=EXT) 
